@@ -53,4 +53,4 @@ The project has 2 use cases,
 
 Blog - techvidvan - vehicle detection 
 
-Videos - Youtu
+Videos - Youtube
