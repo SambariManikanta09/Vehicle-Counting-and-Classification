@@ -8,6 +8,16 @@ The data is helpful in decision making to government agencies like traffic and r
 
 ---
 
+
+YOLO V3 Complete Explanation
+
+Step-by-Step Documentation for the Project 
+available here [Link](https://github.com/SambariManikanta09/Vehicle-Counting-and-Classification/blob/main/Vehicle%20Counting%2C%20Classification%20%26%20Detection%20using%20OpenCV%20%26%20Python.pdf)
+
+
+---
+
+
 Use Case :
 
 - Automate the monitoring of traffic flow
@@ -39,7 +49,8 @@ The project has 2 use cases,
 2. Clone the repository to your local system
 3. Python version 3.5 and above
 4. Install the opencv-python dependancy using `pip install opencv-python`
-5. Navigate to the `vehicle_count.py` file, you will find the implementation of the code
+5. Download the required [yolo-v3](https://drive.google.com/drive/folders/1XHBuwzZARn-8xTPNW8PRpo33A0iRaSLK?usp=sharing) files to the working directory 
+6. Navigate to the `vehicle_count.py` file, you will find the implementation of the code
    - main function has 2 function calls
      - realTime()
      - from_static_image(img-file)
